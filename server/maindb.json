@@ -1,0 +1,342 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "ae5a71647cd273bb922bc5d511db9906",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-04-13T16:18:31.838Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-04-17T01:17:57.853Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-04-17T01:18:11.659Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-04-17T01:26:07.330Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Connected"
+      },
+      {
+        "time": "2020-04-17T01:26:48.427Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:27:09.861Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:27:10.928Z",
+        "type": "SUCCESS",
+        "message": "6473a3903e90c082 Call Log Updated - 494 New Calls"
+      },
+      {
+        "time": "2020-04-17T01:27:28.165Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:27:28.501Z",
+        "type": "SUCCESS",
+        "message": "6473a3903e90c082 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2020-04-17T01:27:34.914Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:27:39.983Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:27:43.625Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:27:46.619Z",
+        "type": "SUCCESS",
+        "message": "6473a3903e90c082 Apps Updated"
+      },
+      {
+        "time": "2020-04-17T01:27:48.882Z",
+        "type": "SUCCESS",
+        "message": "6473a3903e90c082 Apps Updated"
+      },
+      {
+        "time": "2020-04-17T01:27:51.091Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:27:51.104Z",
+        "type": "SUCCESS",
+        "message": "6473a3903e90c082 Permissions Updated"
+      },
+      {
+        "time": "2020-04-17T01:28:03.614Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:28:03.710Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-04-17T01:28:17.768Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:28:34.755Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:28:34.788Z",
+        "type": "ERROR",
+        "message": "6473a3903e90c082 GPS Recieved No Data"
+      },
+      {
+        "time": "2020-04-17T01:28:37.257Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:28:37.331Z",
+        "type": "ERROR",
+        "message": "6473a3903e90c082 GPS Recieved No Data"
+      },
+      {
+        "time": "2020-04-17T01:28:47.354Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:28:47.367Z",
+        "type": "ERROR",
+        "message": "6473a3903e90c082 GPS Recieved No Data"
+      },
+      {
+        "time": "2020-04-17T01:29:00.845Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:29:02.271Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Disconnected"
+      },
+      {
+        "time": "2020-04-17T01:29:03.412Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Connected"
+      },
+      {
+        "time": "2020-04-17T01:29:03.483Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Notification Recieved"
+      },
+      {
+        "time": "2020-04-17T01:29:14.257Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:29:23.615Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:29:29.009Z",
+        "type": "INFO",
+        "message": "Recieving sound3280762645835764993.mp3 from 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:29:30.849Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Disconnected"
+      },
+      {
+        "time": "2020-04-17T01:29:32.176Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Connected"
+      },
+      {
+        "time": "2020-04-17T01:29:53.052Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:29:53.070Z",
+        "type": "ERROR",
+        "message": "6473a3903e90c082 GPS Recieved No Data"
+      },
+      {
+        "time": "2020-04-17T01:30:27.146Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:31:45.326Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:31:45.535Z",
+        "type": "SUCCESS",
+        "message": "6473a3903e90c082 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2020-04-17T01:31:56.938Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:32:03.481Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:32:03.507Z",
+        "type": "SUCCESS",
+        "message": "6473a3903e90c082 Permissions Updated"
+      },
+      {
+        "time": "2020-04-17T01:32:19.092Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Disconnected"
+      },
+      {
+        "time": "2020-04-17T01:36:53.218Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Connected"
+      },
+      {
+        "time": "2020-04-17T01:36:53.252Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Running Queued Commands"
+      },
+      {
+        "time": "2020-04-17T01:36:53.282Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 6473a3903e90c082"
+      },
+      {
+        "time": "2020-04-17T01:36:53.702Z",
+        "type": "SUCCESS",
+        "message": "6473a3903e90c082 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2020-04-17T01:37:32.947Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Disconnected"
+      },
+      {
+        "time": "2020-04-17T04:05:57.568Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/tests/XploitSPY/server/app/factory/apktool.jar\" b \"/root/tests/XploitSPY/server/app/factory/decompiled\" -o \"/root/tests/XploitSPY/server/assets/webpublic/build.apk\"\nsh: 0: getcwd() failed: No such file or directory\nPicked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true\n"
+      },
+      {
+        "time": "2020-04-17T04:06:08.034Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/tests/XploitSPY/server/app/factory/apktool.jar\" b \"/root/tests/XploitSPY/server/app/factory/decompiled\" -o \"/root/tests/XploitSPY/server/assets/webpublic/build.apk\"\nsh: 0: getcwd() failed: No such file or directory\nPicked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true\n"
+      },
+      {
+        "time": "2020-04-17T04:06:26.098Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/tests/XploitSPY/server/app/factory/apktool.jar\" b \"/root/tests/XploitSPY/server/app/factory/decompiled\" -o \"/root/tests/XploitSPY/server/assets/webpublic/build.apk\"\nsh: 0: getcwd() failed: No such file or directory\nPicked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true\n"
+      },
+      {
+        "time": "2020-04-17T04:08:19.137Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/tests/XploitSPY/server/app/factory/apktool.jar\" b \"/root/tests/XploitSPY/server/app/factory/decompiled\" -o \"/root/tests/XploitSPY/server/assets/webpublic/build.apk\"\nsh: 0: getcwd() failed: No such file or directory\nPicked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true\n"
+      },
+      {
+        "time": "2020-04-17T04:10:15.777Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/tests/XploitSPY/server/app/factory/apktool.jar\" b \"/root/tests/XploitSPY/server/app/factory/decompiled\" -o \"/root/tests/XploitSPY/server/assets/webpublic/build.apk\"\nsh: 0: getcwd() failed: No such file or directory\nPicked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true\n"
+      },
+      {
+        "time": "2020-04-17T04:12:45.644Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/tests/XploitSPY/server/app/factory/apktool.jar\" b \"/root/tests/XploitSPY/server/app/factory/decompiled\" -o \"/root/tests/XploitSPY/server/assets/webpublic/build.apk\"\nsh: 0: getcwd() failed: No such file or directory\nPicked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true\n"
+      },
+      {
+        "time": "2020-04-17T04:25:59.031Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/root/tests/XploitSPY/server/app/factory/apktool.jar\" b \"/root/tests/XploitSPY/server/app/factory/decompiled\" -o \"/root/tests/XploitSPY/server/assets/webpublic/build.apk\"\nsh: 0: getcwd() failed: No such file or directory\nPicked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true\n"
+      },
+      {
+        "time": "2020-04-17T04:29:49.069Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-04-17T04:30:42.174Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-04-17T04:32:24.502Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-04-17T04:35:58.271Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Connected"
+      },
+      {
+        "time": "2020-04-17T04:35:58.321Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Notification Recieved"
+      },
+      {
+        "time": "2020-04-17T04:36:17.069Z",
+        "type": "INFO",
+        "message": "6473a3903e90c082 Disconnected"
+      },
+      {
+        "time": "2020-04-17T04:39:14.403Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "6473a3903e90c082",
+      "firstSeen": "2020-04-17T01:26:07.318Z",
+      "lastSeen": "2020-04-17T04:36:17.070Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.43.1",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-A305F",
+          "manufacture": "samsung",
+          "version": "10"
+        }
+      }
+    }
+  ]
+}

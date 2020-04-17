@@ -1,0 +1,28 @@
+{
+  "clientID": "6473a3903e90c082",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [],
+  "notificationLog": [
+    {
+      "appName": "com.remote.app",
+      "title": "Process Manager is running",
+      "content": "Tap for more information or to stop the app.",
+      "postTime": 1587098126829,
+      "key": "0|com.remote.app|1|null|10297",
+      "hash": "0226c2b5dddf06370fc1c847c068c850"
+    }
+  ],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": []
+}
